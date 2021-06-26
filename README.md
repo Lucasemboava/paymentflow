@@ -1,1 +1,1 @@
-Projeto desenvolvido na <nlw> Togheter Mission Flutter
+Projeto desenvolvido na NLW Togheter Mission Flutter
